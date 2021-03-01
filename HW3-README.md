@@ -163,7 +163,7 @@ to the highest level of average delay throughout the day among all three
 airports. Average departure and arrival delays for EWR Airport increase
 at the fastest rate throughout the day as well. However, if we examine
 JFK and LGA Airports, they do not seem to reach as high of a peak delay
-throughout the day, so flyers should avoid EWR Airport and choose JFK or
+throughout the day, so fliers should avoid EWR Airport and choose JFK or
 LGA.**
 
 ``` r
@@ -214,7 +214,7 @@ flights %>%
 among different airlines. AA and UA both seem to increase linearly
 throughout the day, meaning that bigger airlines usually have more
 passengers and planes so delay will be higher. Thus, it would be best
-for flyers to choose a smaller airline to fly with such as AS, US, or
+for fliers to choose a smaller airline to fly with such as AS, US, or
 DL.**
 
 ``` r
